@@ -4,8 +4,4 @@
 
 ----
 
-Changes after Initial commit
-
-----
-
-Changes after after Initial commit
+If you wouldn't look at it, I'll appreciate that
