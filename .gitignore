@@ -1,0 +1,8 @@
+# all folder
+/cache 
+
+# one file
+some_file.txt 
+
+# all txt files
+#*.txt 
