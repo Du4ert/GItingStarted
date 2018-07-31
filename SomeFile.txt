@@ -1,3 +1,3 @@
 New line
 Second line
-Third line from FirstBranch
+Third line from FirstBranch. It must be a bit longer. Like this.
