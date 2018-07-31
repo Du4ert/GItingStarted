@@ -1,3 +1,4 @@
 New line
 Second line
 Third line from FirstBranch
+Fourth line from SecondBranch
